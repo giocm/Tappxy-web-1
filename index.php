@@ -4,9 +4,12 @@
   include 'header.php';
  ?>
   <body>
+<<<<<<< HEAD
     <main class="principal">
       
     </main>
+=======
+>>>>>>> master
 
   <?php
     include 'incluir/footer.php';
